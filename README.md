@@ -18,4 +18,4 @@ N/A
 
 ## License
 
-MIT License, see LISENSE in repo for full details.
+MIT License, see LICENSE in repo for full details.
